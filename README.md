@@ -1,0 +1,1 @@
+Make sure you are using .net6.0 and Visual Studio 2022 or above. . . . Open VLCLIB.sln from downloaded Project . . . Install LibVLCSharp.Shared and LibVLCSharp.WinForms from Nuget Packages. . . . Add LibVLCSharp.dll in ToolBox . . . Now you can run the project
